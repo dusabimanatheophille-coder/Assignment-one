@@ -1,9 +1,3 @@
-# Assignment-oneThe code modifies a list of room names by removing Room C then sorts and displays the updated list.
+# Assignment-one Dormitory Room Allocation – Description
 
-It demonstrates arrays by summing student counts for the first 4 rooms and compares results with a normal list.
-
-A list of dictionaries room_records stores room details with IDs, names, and values.
-
-The code updates Room B s value deletes Room C and recalculates the total.
-
-Finally it prints the updated room records and the total value of remaining rooms. 
+This project applies Python concepts to manage dormitory room data. It uses integers to calculate totals, averages, minimums, and maximums. Strings with f-strings generate summary reports, while booleans check if averages meet a threshold using compound conditions. Lists store and modify room records, and arrays handle fixed-size numeric subsets for comparison with lists. Finally, dictionaries manage detailed room records, allowing updates, deletions, and total value computation.
